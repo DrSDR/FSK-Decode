@@ -10,3 +10,5 @@ msb is sent first
 bit 1 is a 2400 hz tone, 40 samples long
 bit 0 is a 1200 hz tone,  40 samples long
 decode the text today and get your amazon claim code.
+the first ascii char in the wav file is:  t  or 116 dec or 01110100 in binary
+
